@@ -1,0 +1,4 @@
+*.pyc
+report/*
+test.py
+epidemic.py
